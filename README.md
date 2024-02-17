@@ -2,12 +2,16 @@
 
 ## UML Architecture Diagrams
 
-- **[Activity Diagram](./UML/Activiti_Diagram.png):** 
+- **[Activity Diagram](./UML/Activiti_Diagram.png):**
+![Activity Diagram](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/UML/Activiti_Diagram.png?raw=true "Activity Diagram") 
 
 - **[Sequence Diagram](./UML/Sequence_diagram.png):** 
+![Sequence Diagram](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/UML/Sequence_diagram.png?raw=true "Sequence Diagram") 
 - **[State Diagram](./UML/State_diagram.png):** 
+![State Diagram](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/UML/State_diagram.png?raw=true "State Diagram") 
 
 - **[Class Diagram](./UML/Class_Diagram.png):** 
+![Class Diagram](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/UML/Class_Diagram.png?raw=true "Class Diagram") 
 
 ## Project Write-up - Libraries
 
@@ -140,3 +144,11 @@ Summary
 =======
 > Total deployments:   6
 > Final cost:          0.07828738 ETH
+
+### Deploying Contracts Terminal Window:Images**
+![Deploying Contracts](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/project-6/images/truffle%20test.png?raw=true "") 
+![Deploying Contracts](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/project-6/images/truffle%20migrate%201.png?raw=true "") 
+![Deploying Contracts](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/project-6/images/truffle%20migrate%202.png?raw=true "") 
+![Deploying Contracts](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/project-6/images/truffle%20migrate%203.png?raw=true "") 
+![Deploying Contracts](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/project-6/images/truffle%20migrate%204.png?raw=true "") 
+![Deploying Contracts](https://github.com/omi90/udacityblokchain-Project-6b/blob/master/project-6/images/truffle%20migrate%205.png?raw=true "") 
