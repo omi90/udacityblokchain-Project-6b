@@ -26,7 +26,27 @@
 - **Visual Studio Code:** IDE
 
 ## General Write Up
-
+## Setting Up 
+1. Install Truffle
+>npm install truffle@5.8.1 -g
+2. Clone the Repository or Download zip on local machine
+3. Navigate to folder project-6 under the main project directory
+4. Run ganache server on local machine
+5. Compile the smart contracts
+>truffle compile
+6. Migrate smart contracts
+>truffle migrate --reset
+7. Test the smart contracts
+>test
+8. All the 10 test cases should pass
+9. To deploy contacts on test network, make the configuration in truffle-config.js and execute.
+>truffle migrate --reset --network <Network name in configuration>
+## Front End 
+1. Inside project-6 folder, first install dependencies
+>npm install
+2. Start localserver 
+>npm run dev
+3. Open any browser and navigate to URL "http://localhost:3000" and a form will be present on browser
 ### Deploying Contracts Terminal Window: && Contract Address**
 Starting migrations...
 ======================
